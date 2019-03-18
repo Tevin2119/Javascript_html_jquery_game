@@ -1,0 +1,48 @@
+.container{
+  width: 105%;
+	height: 100%;
+	  text-align: center;
+  background-color: orange;
+  position: fixed;
+}
+[type="button"]{
+  text-align: center;
+  position:absolute;
+   transition: .5s ease;
+   top: 20%;;
+   left: 15%;;;
+}
+.col-md-1{
+  border-style: solid;
+  border-color: black;
+  background-color:yellow;
+  text-emphasis-color: yellow;
+  width: 10%;
+  padding: 20px;
+
+}
+.jumbotron{
+  text-align: center;
+  background-color: black;
+  max-height: 50%;
+}
+.col-md-1{
+ height: 50px;
+ text-indent: -9999px;
+}
+#title{
+  color: #300000;
+}
+#page{
+  background-color: orange;
+}
+
+#gameOverP{
+  background-color: red;
+  text-align: center;
+}
+#homeScreen{
+  text-decoration: underline;
+  text-decoration-color: orange;
+
+}
